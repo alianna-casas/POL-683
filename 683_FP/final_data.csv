@@ -1,0 +1,317 @@
+"","ccode.x","dyadid","country","startyear","final2000s","cname","gname","noncombat_prev_best","noncombat","noncombat_clandestine","noncombat_logistics","noncombat_outreach","leftist","lngdppc","fertility_start","duration","forced_recruit","preorgpar","preorgmvt","preorgyou","preorglab","preorgrel","preorgreb"
+"1",NA,548,NA,NA,NA,"Saudi Arabia","The Salafi groups which practice hisba",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"2",NA,375,NA,NA,NA,"Yemen","Democratic Republic of Yemen",0,0,0,0,0,NA,NA,NA,NA,NA,1,0,0,0,0,0
+"3",NA,765,NA,NA,NA,"India","Dima Halam Daogah - Black Widow faction",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"4",NA,778,NA,NA,NA,"Venezuela","Red Flag",NA,1,0,1,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"5",NA,647,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",NA,839,NA,NA,NA,NA,NA,NA,1,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",NA,498,NA,NA,NA,"Indonesia","Organization for a Free Papua",3,1,1,1,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"8",NA,158,NA,NA,NA,"Comoros","Presidential guard",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"9",NA,338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10",NA,44,NA,NA,NA,"Djibouti","Front for the Restoration of Unity and Democracy - Ahmed Dini faction",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,1
+"11",NA,350,NA,NA,NA,"Russia","Parliamentary Forces",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1,0,0,0,0
+"12",NA,373,NA,NA,NA,"USSR","Azerbaijani Popular Front",NA,1,0,0,1,NA,NA,NA,NA,NA,0,1,0,0,0,0
+"13",NA,441,NA,NA,NA,"Haiti","OP Lavalas (Chimères)",0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0
+"14",NA,811,NA,NA,NA,"Ethiopia","Issa and Gurgura Liberation Front",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,1
+"15",NA,697,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",NA,252,NA,NA,NA,"Philippines","Moro National Liberation Front - Nur Misauri faction",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,1
+"17",775,322,"Myanmar",1990,0,"Myanmar","All-Burma Students Democratic Front",4,1,0,1,1,0,7.038740158,3.414999962,4,1,0,0,1,0,0,0
+"18",NA,309,NA,NA,NA,"India","All Bodo Student’s Union",4,1,0,1,1,0,NA,NA,NA,NA,0,0,0,0,0,0
+"19",500,153,"Uganda",1996,1,"Uganda","Alliance of Democratic Forces",3,1,1,1,1,0,6.786909103,6.993999958,11,1,0,0,0,0,0,0
+"20",490,39,"Congo, Dem. Rep.",1996,0,"DRC","Alliance of Democratic Forces for the Liberation of Congo-Kinshasa",NA,1,0,1,0,0,5.583890915,7.252999783,1,0,1,0,0,0,0,0
+"21",451,131,"Sierra Leone",1997,0,"Sierra Leone","Armed Forces Revolutionary Council",2,1,1,1,0,0,6.799777031,6.09800005,2,1,0,0,0,0,0,1
+"22",666,426,"Israel",2001,1,"Israel","Al-Aqsa Martyrs' Brigades",NA,NA,NA,NA,NA,0,10.11118031,2.920000076,8,1,1,0,0,0,0,1
+"23",483,767,"Chad",2008,1,"Chad","National Alliance",0,0,0,0,0,0,7.284010887,6.804999828,0,0,0,0,0,0,0,1
+"24",560,558,"South Africa",1978,0,"South Africa","African National Congress",4,1,1,1,1,0,8.730038643,4.968999863,10,NA,0,1,0,0,1,0
+"25",630,546,"Iran, Islamic Rep.",1979,0,"Iran","Arab Political and Cultural Organization",0,0,0,0,0,0,8.500590324,6.421999931,1,NA,0,1,0,0,0,0
+"26",679,784,"Yemen",2009,1,"Yemen","Al-Qaida in the Arabian Peninsula",2,1,0,0,1,0,7.400000095,4.638999939,0,0,0,0,0,0,0,0
+"27",615,4,"Algeria",1998,1,"Algeria","Salafist Group for Preaching and Combat",0,0,0,0,0,0,8.390908241,2.79399991,11,0,0,0,0,0,0,1
+"28",530,52,"Ethiopia",1996,0,"Ethiopia","Afar Revolutionary Democratic Unity Front",0,0,0,0,0,0,6.191831112,6.934999943,0,0,0,0,0,0,0,1
+"29",775,323,"Myanmar",1991,0,"Myanmar","Arakan Rohingya Islamic Front",NA,NA,NA,NA,NA,0,7.006979942,3.279000044,1,NA,0,0,0,0,0,1
+"30",520,632,"Somalia",2006,1,"Somalia","Supreme Islamic Council of Somalia",0,0,0,0,0,0,7.17993021,7.218999863,2,1,0,0,0,0,1,0
+"31",840,249,"Philippines",1993,1,"Philippines","Abu Sayyaf Group",2,1,1,1,1,0,8.130886078,4.112999916,16,1,0,0,0,0,0,1
+"32",432,650,"Mali",2007,1,"Mali","May 23 Democratic Alliance for Change - Ibrahim Bahanga faction",0,0,0,0,0,0,6.756370068,6.806000233,2,0,0,0,0,0,0,0
+"33",750,262,"India",1992,0,"India","All Tripura Tiger Force",NA,1,1,1,1,0,7.336712837,3.709000111,7,0,0,0,0,0,0,1
+"34",475,446,"Nigeria",2003,1,"Nigeria","Followers of the Prophet",0,0,0,0,0,0,7.157689095,6.041999817,1,NA,0,0,0,0,0,0
+"35",645,578,"Iraq",2004,1,"Iraq","Islamic Army of Iraq",0,0,0,0,0,0,8.175559044,4.633999825,3,0,0,0,0,0,1,0
+"36",651,241,"Egypt, Arab Rep.",1981,0,"Egypt","Islamic Group",0,0,0,0,0,0,8.213783264,5.309999943,17,0,0,1,0,0,0,0
+"37",NA,447,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38",645,442,"Iraq",2004,1,"Iraq","al-Mahdi Army",2,1,0,1,1,0,8.171579361,4.633999825,4,0,0,1,0,0,1,0
+"39",NA,360,NA,NA,NA,NA,NA,3,1,0,1,1,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA
+"40",520,770,"Somalia",2008,1,"Somalia","Al-Shabaab",4,1,1,1,1,0,7.199502945,7.056000233,1,1,0,0,0,0,0,1
+"41",660,724,"Lebanon",1983,0,"Lebanon","Lebanese Resistance Detachment",4,1,1,1,1,0,8.478936195,3.691999912,1,1,0,1,0,0,0,0
+"42",645,443,"Iraq",2003,1,"Iraq","Supporters of Islam",NA,1,0,1,1,0,8.172136307,4.712999821,4,0,0,0,0,0,0,0
+"43",346,294,"Bosnia",NA,NA,"Bosnia and Herzegovina","Autonomous Province of Western Bosnia",0,0,0,0,0,0,NA,NA,NA,1,0,0,0,0,0,0
+"44",490,651,"Congo, Dem. Rep.",1998,1,"DRC","Kingdom of Kongo",2,1,0,1,0,0,5.536468029,7.190000057,10,0,0,0,0,0,1,0
+"45",770,639,"Pakistan",2004,1,"Pakistan","Balochistan Liberation Army",0,0,0,0,0,0,7.759549141,3.872999907,5,0,0,0,0,0,0,0
+"46",775,326,"Myanmar",1996,0,"Myanmar","Beik Mon Army",0,0,0,0,0,0,7.237613201,2.760999918,0,NA,0,0,0,0,0,1
+"47",910,337,"Papua New Guinea",1989,0,"Papua New Guinea","Bougainville Revolutionary Army",3,1,1,1,1,0,7.839818001,4.861000061,8,0,0,0,0,0,0,0
+"48",770,774,"Pakistan",2007,1,"Pakistan","Balochistan Republican Army",NA,1,0,0,1,0,7.798762798,3.648000002,2,0,1,0,0,0,0,1
+"49",770,638,"Pakistan",2005,1,"Pakistan","Baloch Unity",0,0,0,0,0,0,7.740999222,3.785000086,1,0,1,0,0,0,0,0
+"50",475,793,"Nigeria",2009,1,"Nigeria","People Committed to Propagating the Prophet's Teachings and Jihad",3,1,1,1,1,0,7.589670181,6.020999908,0,1,0,0,0,0,1,0
+"51",483,664,"Chad",1987,0,"Chad","Revolutionary Democratic Council",0,0,0,0,0,NA,6.729203224,7.198999882,0,0,0,0,0,0,0,0
+"52",516,12,"Burundi",1994,0,"Burundi","National Council for the Defense of Democracy",NA,NA,NA,NA,NA,0,6.121772766,7.368000031,4,1,1,0,0,0,0,0
+"53",516,14,"Burundi",1998,1,"Burundi","National Council for the Defense of Democracy-Forces for the Defense of Democracy",3,1,1,1,1,0,6.162872791,7.164999962,5,1,0,0,0,0,0,1
+"54",490,646,"Congo, Dem. Rep.",2006,1,"DRC","National Congress for the Defence of the People",0,0,0,0,0,0,5.543078899,6.642000198,2,1,0,1,0,0,0,1
+"55",483,22,"Chad",1992,0,"Chad","National Council for Recovery",0,0,0,0,0,0,6.917153835,7.375999928,2,0,0,0,0,0,0,0
+"56",775,305,"Myanmar",1948,0,"Myanmar","Communist Party of Burma",3,1,0,1,1,1,6.773581982,NA,40,1,1,0,0,0,0,0
+"57",750,451,"India",2004,1,"India","Communist Party of India-Maoist",4,1,1,1,1,1,7.965565205,2.884000063,5,0,0,0,0,0,0,1
+"58",482,782,"Central African Republic",2009,1,"Central African Republic","Convention of Patriots for Justice and Peace",0,0,0,0,0,0,6.396696091,4.71600008,0,NA,0,0,0,0,0,1
+"59",820,585,"Malaysia",1957,0,"Malaysia","Communist Party of Malaya",4,1,1,1,1,1,8.76941967,NA,24,NA,0,1,0,0,0,0
+"60",790,349,"Nepal",1996,1,"Nepal","Communist Party of Nepal-Maoist",4,1,1,1,1,1,7.037591934,4.596000195,10,1,1,0,0,0,0,0
+"61",840,217,"Philippines",1969,1,"Philippines","Communist Party of the Philippines",4,1,0,1,1,1,8.04005146,6.375999928,40,1,1,0,0,0,0,1
+"62",800,599,"Thailand",1966,0,"Thailand","Communist Party of Thailand",4,1,0,1,1,1,8.031558037,6.084000111,16,0,0,1,0,0,0,0
+"63",436,111,"Niger",1994,0,"Niger","Coordination of the Armed Resistance",0,0,0,0,0,NA,6.329363823,7.770999908,0,NA,0,0,0,0,0,1
+"64",483,21,"Chad",1992,0,"Chad","Committee of National Revival for Peace and Democracy",0,0,0,0,0,0,6.917153835,7.375999928,2,0,0,0,0,0,0,0
+"65",365,348,"Russian Federation",1994,1,"Russia","Chechen Republic of Ichkeria (Republic of Chechnya)",2,1,0,1,1,0,9.252212524,1.399999976,15,1,0,0,0,0,0,0
+"66",484,189,"Congo, Rep.",1997,0,"Congo-Brazzaville","Cobras",0,0,0,0,0,0,7.727798939,5.140999794,0,0,1,0,0,0,0,0
+"67",484,37,"Congo, Rep.",1997,0,"Congo-Brazzaville","Cocoyes",0,0,0,0,0,0,7.641757965,5.140999794,2,0,1,0,0,0,0,0
+"68",93,231,"Nicaragua",1982,0,"Nicaragua","Contras/Nicaraguan Democratic Forces",4,1,1,1,1,0,7.89815712,5.889999866,8,1,0,0,0,0,0,0
+"69",346,293,"Bosnia and Herzegovina",1992,0,"Bosnia and Herzegovina","Croatian Republic of Bosnia-Herzegovina",0,0,0,0,0,0,7.088700771,1.76699996,2,1,0,0,0,0,0,0
+"70",346,301,"Bosnia-Herzegovina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+"71",346,273,"Bosnia-Herzegovina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72",640,330,"Turkey",1987,0,"Turkey","Revolutionary Left",3,1,0,1,1,1,9.068133354,3.427000046,5,0,0,0,0,0,0,0
+"73",90,625,"Guatemala",NA,NA,"Guatemala","Guerilla Army of the Poor",4,1,1,1,1,1,NA,NA,NA,1,0,0,0,0,0,0
+"74",531,435,"Eritrea",1993,1,"Eritrea","EIJM-AS: Eritrean Islamic Jihad Movement-Abu Suhail faction",0,0,0,0,0,0,6.373569965,6.400000095,10,NA,0,0,0,0,0,0
+"75",530,667,"Ethiopia",1961,0,"Ethiopia","Eritrean Liberation Front",3,1,1,1,1,0,6.424892902,6.876999855,19,1,0,0,0,0,0,0
+"76",100,342,"Colombia",1965,1,"Colombia","National Liberation Army",4,1,1,1,1,1,8.762690544,6.559000015,43,1,0,0,1,0,1,0
+"77",530,47,"Ethiopia",1982,0,"Ethiopia","Ethiopian People’s Democratic Movement",0,0,0,0,0,0,6.707419872,7.396999836,3,1,0,0,0,0,0,1
+"78",100,343,"Colombia",1984,1,"Colombia","People’s Liberation Army",4,1,1,1,1,1,8.762690544,3.525000095,20,1,1,0,0,0,0,0
+"79",530,53,"Ethiopia",1973,0,"Ethiopia","Eritrean People’s Liberation Front",4,1,1,1,1,1,6.556240082,7.093999863,18,1,0,0,0,0,0,1
+"80",70,299,"Mexico",NA,NA,"Mexico","Popular Revolutionary Army",NA,1,0,0,1,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"81",530,48,"Ethiopia",1989,0,"Ethiopia","Ethiopian People’s Revolutionary Democratic Front",4,1,1,1,1,0,6.445787907,7.297999859,2,1,0,0,0,0,0,1
+"82",780,687,"Sri Lanka",1985,0,"Sri Lanka","Eelam People's Revolutionary Liberation Front",4,1,0,1,1,0,7.81221199,2.904000044,0,1,0,0,0,0,0,0
+"83",530,50,"Ethiopia",1975,0,"Ethiopia","Ethiopian People’s Revolutionary Party",4,1,0,1,1,1,6.634977818,7.143000126,12,1,0,0,1,0,0,0
+"84",92,510,"El Salvador",NA,NA,"El Salvador","People’s Revolutionary Army",4,1,0,1,1,1,NA,NA,NA,1,1,0,1,0,0,0
+"85",230,366,"Spain",1968,0,"Spain","Basque Nation and Liberty",3,1,0,1,1,1,9.480119705,2.869999886,24,NA,1,0,1,0,0,0
+"86",70,230,"Mexico",1994,0,"Mexico","Zapatista National Liberation Army",4,1,1,1,1,1,9.213036537,3.039999962,0,NA,0,0,0,0,0,0
+"87",483,660,"Chad",1976,0,"Chad","Armed Forces of the North",NA,NA,NA,NA,NA,0,6.670096874,6.820000172,6,0,0,0,0,0,0,1
+"88",483,661,"Chad",1977,0,"Chad","People’s Armed Forces",0,0,0,0,0,0,6.73298502,6.856999874,2,NA,0,0,0,0,0,1
+"89",90,624,"Guatemala",NA,NA,"Guatemala","Rebel Armed Forces",3,1,1,1,1,1,NA,NA,NA,1,1,0,0,0,0,0
+"90",90,694,"Guatemala",NA,NA,"Guatemala","Revolutionary Armed Forces",NA,NA,NA,NA,NA,1,NA,NA,NA,1,1,0,0,0,0,0
+"91",100,237,"Colombia",1964,1,"Colombia","Revolutionary Armed Forces of Colombia",4,1,1,1,1,1,8.773389816,6.660999775,45,1,1,0,0,0,0,0
+"92",483,26,"Chad",1994,0,"Chad","Armed Forces of the Federal Republic",0,0,0,0,0,0,6.763954163,7.415999889,4,0,0,0,0,0,0,1
+"93",NA,114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94",483,662,"Chad",1982,0,"Chad","Chadian Armed Forces",NA,1,0,1,0,0,6.691749096,7.022999763,0,0,0,0,0,0,0,0
+"95",517,828,"Rwanda",2001,1,"Rwanda","Democratic Liberation Forces of Rwanda",2,1,1,1,1,0,NA,5.642000198,10,1,0,0,0,0,0,1
+"96",436,113,"Niger",1995,0,"Niger","Democratic Front for Renewal",0,0,0,0,0,0,6.360178947,7.772999763,0,NA,0,0,0,0,0,0
+"97",432,97,"Mali",1991,0,"Mali","Islamic Arab Front of Azawad",0,0,0,0,0,0,6.621126175,7.044000149,3,NA,0,0,0,0,0,1
+"98",436,761,"Niger",NA,NA,"Niger","Aїr and Azawad Liberation Front",0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
+"99",NA,110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100",NA,190,NA,NA,NA,"Angola","Front for the Liberation of the Enclave of Cabinda-Armed Forces of Cabinda",2,1,0,1,1,NA,NA,NA,NA,0,0,0,0,0,0,1
+"101",540,191,"Angola",1991,1,"Angola","Front for the Liberation of the Enclave of Cabinda-Renewed",0,0,0,0,0,0,7.963170052,7.143000126,11,0,0,1,0,0,0,0
+"102",NA,440,NA,NA,NA,"Haiti","National Front for the Liberation of Haiti",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,0
+"103",92,225,"El Salvador",1980,0,"El Salvador","Farabundo Marti Front for National Liberation",4,1,1,1,1,1,6.143435955,5.137000084,11,1,1,0,0,0,0,1
+"104",437,439,"Cote d'Ivoire",2004,1,"Ivory Coast","New Forces",3,1,1,1,0,0,7.22578001,5.059999943,0,1,0,0,0,0,0,1
+"105",NA,568,NA,NA,NA,"Angola","Union of Angolan Peoples",0,0,0,0,0,0,NA,NA,NA,NA,0,1,0,0,0,0
+"106",483,24,"Chad",1992,0,NA,NA,0,0,0,0,0,0,6.917153835,7.375999928,2,0,NA,NA,NA,NA,NA,NA
+"107",92,508,"El Salvador",NA,NA,"El Salvador","Farabundo Marti Popular Liberation Forces",4,1,1,1,1,1,NA,NA,NA,1,1,0,0,1,0,0
+"108",517,127,"Rwanda",1990,0,"Rwanda","Rwandan Patriotic Front",3,1,1,1,1,0,6.868814945,7.270999908,4,0,0,1,0,0,0,0
+"109",522,43,"Djibouti",1991,0,"Djibouti","Front for the Restoration of Unity and Democracy",NA,NA,NA,NA,NA,0,7.702756882,6,3,0,0,1,0,0,0,0
+"110",93,567,"Nicaragua",1974,0,"Nicaragua","Sandinista National Liberation Front",4,1,1,1,1,1,7.926548004,6.677999973,5,NA,1,0,1,0,0,0
+"111",483,455,"Chad",2005,1,"Chad","Rally for Democray and Liberty",NA,1,0,1,0,0,7.363790035,7.073999882,1,0,0,0,0,0,0,0
+"112",500,703,"Uganda",1980,0,"Uganda","Former Uganda National Army",0,0,0,0,0,0,6.352036953,7.099999905,1,0,0,0,0,0,0,0
+"113",811,379,"Cambodia",1982,0,"Cambodia","United National Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",0,0,0,0,0,0,7.752474785,6.007999897,15,1,0,0,0,0,0,0
+"114",666,377,"Israel",1965,1,"Israel","Palestinian National Liberation Movement",4,1,1,1,1,1,10.04090977,3.813999891,42,1,0,0,0,0,0,0
+"115",NA,287,NA,NA,NA,"Central African Republic","Forces of Francois Bozize",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"116",660,376,"Lebanon",NA,NA,"Lebanon","Forces of Michel Aoun",NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,0,0
+"117",NA,849,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118",365,773,"Russian Federation",2007,1,"Russia","Forces of the Caucasus Emirate",NA,NA,NA,NA,NA,0,9.252212524,1.409999967,2,0,0,0,0,0,0,1
+"119",850,344,"Indonesia",1975,0,"Indonesia","Revolutionary Front for an Independent East Timor",4,1,1,1,1,0,7.790396214,5.043000221,23,0,1,0,0,0,0,0
+"120",516,13,"Burundi",1990,0,"Burundi","National Liberation Front",0,0,0,0,0,0,6.228293896,7.541999817,7,1,0,0,0,0,0,1
+"121",500,701,"Uganda",NA,NA,"Uganda","Front for National Salvation",0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
+"122",850,347,"Indonesia",1989,1,"Indonesia","Free Aceh Movement",3,1,1,1,1,0,7.991600037,3.229000092,16,0,0,0,0,0,0,1
+"123",615,3,"Algeria",1992,1,"Algeria","Armed Islamic Group",0,0,0,0,0,0,8.261921883,4.237999916,11,1,1,0,0,0,0,0
+"124",483,663,"Chad",1983,0,"Chad","Transitional Government of National Unity",0,0,0,0,0,0,6.767737865,7.056000233,3,0,1,0,0,0,0,1
+"125",775,314,"Myanmar",2000,1,"Myanmar","God's Army",NA,1,0,0,0,0,7.523055077,2.427999973,0,1,0,0,0,0,0,1
+"126",500,149,"Uganda",1986,0,"Uganda","Holy Spirit Movement",2,1,1,1,0,0,6.436502934,7.103000164,1,0,0,0,0,0,0,1
+"127",666,381,"Israel",1989,1,"Israel","Islamic Resistance Movement",4,1,0,1,1,0,10.05741024,2.885999918,20,1,0,0,0,0,1,0
+"128",NA,771,NA,NA,NA,"Somalia","Harakat Ras Kamboni",NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,0,0,0,0,1
+"129",700,731,"Afghanistan",1980,0,"Afghanistan","Movement of the Islamic Revolution/Uprising of Afghanistan",NA,1,1,1,1,0,6.861565113,7.669000149,8,1,0,0,1,0,0,0
+"130",700,737,"Afghanistan",1984,0,"Afghanistan","Islamic Movement",0,0,0,0,0,0,7.066568851,7.676000118,0,1,0,0,0,0,0,0
+"131",660,643,"Lebanon",1986,1,"Israel","Hezbollah",4,1,1,1,1,0,7.831367016,3.378999949,20,1,0,0,0,0,0,1
+"132",700,412,"Afghanistan",1980,1,"Afghanistan","Islamic Party of Afghanistan",NA,1,1,1,1,0,6.861565113,7.669000149,29,1,0,0,0,0,0,1
+"133",700,760,"Afghanistan",1980,0,"Afghanistan","Islamic Party of Afghanistan - Khalis faction",NA,1,1,1,1,0,6.861565113,7.669000149,11,1,0,0,0,0,0,1
+"134",700,413,"Afghanistan",1989,0,"Afghanistan","Unity Party",NA,1,0,1,1,0,6.786345005,7.68200016,6,1,0,0,0,0,0,0
+"135",520,804,"Somalia",2009,1,"Somalia","Islamic Party",0,0,0,0,0,0,7.188502789,6.965000153,0,1,0,0,0,0,0,1
+"136",704,363,"Uzbekistan",1999,1,"Uzbekistan","Islamic Movement of Uzbekistan",NA,1,0,1,1,0,8.125967979,2.720000029,1,NA,0,0,0,0,0,0
+"137",450,94,"Liberia",1990,0,"Liberia","Independent National Patriotic Front of Liberia",0,0,0,0,0,0,6.217205048,6.499000072,0,1,0,0,0,0,0,1
+"138",645,448,"Iraq",2004,1,"Iraq","The Monotheism and Jihad Group",3,1,1,1,1,0,8.196637154,4.633999825,5,0,0,0,0,0,0,0
+"139",483,20,"Chad",1987,0,"Chad","Islamic Legion",0,0,0,0,0,0,6.978600979,7.198999882,3,0,0,0,0,0,0,0
+"140",700,735,"Afghanistan",1981,0,"Afghanistan","Islamic Union for the Freedom of Afghanistan",NA,1,1,1,1,0,6.963436127,7.670000076,7,1,0,0,0,0,0,0
+"141",625,434,"Sudan",2003,1,"Sudan","Justice and Equality Movement",NA,1,0,0,1,0,7.558259964,5.205999851,6,1,1,0,0,0,0,0
+"142",704,444,"Uzbekistan",2004,1,"Uzbekistan","Jihad Islamic Group",NA,1,0,1,0,0,8.257237434,2.460000038,0,NA,0,0,0,0,0,1
+"143",771,223,"Bangladesh",1975,0,"Bangladesh","People's Solidarity Association/Peace Force",4,1,1,1,1,0,7.058052063,6.821000099,17,0,0,0,0,0,0,0
+"144",780,256,"Sri Lanka",1971,0,"Sri Lanka","People's Liberation Front",2,1,1,1,1,1,7.882592201,4.208000183,19,1,1,0,0,0,0,0
+"145",700,733,"Afghanistan",1980,0,"Afghanistan","Afghanistan National Liberation Front",NA,1,1,1,1,0,6.861565113,7.669000149,8,1,0,0,0,0,1,0
+"146",700,411,"Afghanistan",1975,0,"Afghanistan","Islamic Society of Afghanistan",NA,1,1,1,1,0,6.90551281,7.671000004,17,1,0,0,1,0,0,0
+"147",52,219,"Trinidad and Tobago",NA,NA,"Trinidad and Tobago","Muslim Society",NA,1,0,0,1,0,NA,NA,NA,0,0,0,0,0,1,0
+"148",630,640,"Iran, Islamic Rep.",2003,1,"Iran","God’s Army",0,0,0,0,0,0,9.299227715,1.934000015,6,0,0,0,0,0,0,0
+"149",700,422,"Afghanistan",1993,0,"Afghanistan","National Islamic Movement",0,0,0,0,0,0,6.490283012,7.757999897,2,1,0,0,0,0,0,0
+"150",750,764,"India",1995,1,"India","Kangleipak Communist Party",3,1,1,1,1,1,8.061332703,3.47300005,14,0,0,0,0,0,0,1
+"151",645,279,"Iraq",1961,0,"Iraq","Kurdish Democratic Party",4,1,0,1,1,0,8.605413437,6.363999844,30,0,1,0,0,0,0,0
+"152",630,260,"Iran",1946,0,"Iran","Republic of Kurdistan",4,1,0,1,1,0,8.179667473,NA,50,0,0,1,0,0,0,0
+"153",775,304,"Myanmar",1961,0,"Myanmar","Kachin Independence Organization",4,1,1,1,1,0,6.836118221,6.072999954,31,1,0,0,1,0,0,0
+"154",345,295,"Serbia",1996,0,"Yugoslavia","Kosovo Liberation Army",2,1,0,1,0,0,8.800139427,2.75,3,0,0,0,0,0,0,0
+"155",750,788,"India",NA,NA,"India","Kuki National Front",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,0
+"156",775,311,"Myanmar",1957,1,"Myanmar","Karenni National Progressive Party",NA,1,0,1,1,0,7.408194065,NA,48,1,0,0,0,0,0,0
+"157",775,306,"Myanmar",1966,1,"Myanmar","Karen National Union",4,1,0,1,1,0,7.470440865,6.129000187,43,1,0,1,0,0,0,0
+"158",811,553,"Cambodia",1978,0,"Cambodia","Kampuchean National United Front for National Salvation",0,0,0,0,0,0,7.577796936,5.459000111,1,NA,0,0,0,0,0,0
+"159",811,378,"Cambodia",1979,0,"Cambodia","Khmer People’s National Liberation Front",3,1,1,1,1,0,7.718595028,5.545000076,12,1,0,0,0,0,0,0
+"160",811,364,"Cambodia",1967,0,"Cambodia","Khmer Rouge/Red Khmers",4,1,0,1,1,1,7.661324978,6.749000072,31,1,1,0,0,0,0,0
+"161",451,132,"Sierra Leone",1997,0,"Sierra Leone","Kamajors",2,1,0,1,0,0,6.922101974,6.09800005,1,1,0,0,0,0,0,0
+"162",750,355,"India",1984,1,"India","Jammu and Kashmir Liberation Front",4,1,1,1,1,0,7.55509901,4.357999802,25,0,0,0,0,0,0,0
+"163",500,700,"Uganda",NA,NA,"Uganda","Special Force",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"164",660,722,"Lebanon",1975,0,"Lebanon","Lebanese National Movement",NA,NA,NA,NA,NA,1,8.36271286,4.443999767,9,1,1,0,0,0,0,0
+"165",775,797,"Myanmar",1973,0,"Myanmar","Lahu National Unity Party",0,0,0,0,0,1,6.730641842,5.693999767,8,1,0,0,0,0,0,0
+"166",812,382,"Lao PDR",1976,0,"Laos","Lao Resistance Movement",0,0,0,0,0,0,7.116097927,6.096000195,14,NA,0,0,0,0,0,0
+"167",780,243,"Sri Lanka",1975,1,"Sri Lanka","Liberation Tigers of Tamil Eelam",4,1,1,1,1,0,8.038917542,3.782999992,34,1,0,0,0,0,0,0
+"168",450,95,"Liberia",2000,1,"Liberia","Liberians United for Reconciliation and Democracy",4,1,1,1,1,0,6.190285206,5.880000114,3,1,0,0,0,0,0,0
+"169",770,844,"Pakistan",NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA
+"170",660,383,"Lebanon",1985,0,"Lebanon","Lebanese Forces",NA,NA,NA,NA,NA,0,7.831367016,3.482000113,4,1,0,1,0,0,1,0
+"171",660,726,"Lebanon",NA,NA,"Lebanon","Lebanese Forces - Hobeika faction",NA,NA,NA,NA,NA,0,NA,NA,NA,1,0,0,0,0,0,1
+"172",500,708,"Uganda",1988,0,"Uganda","Lord's Army",0,0,0,0,0,NA,6.438438892,7.099999905,0,0,0,0,0,0,0,1
+"173",500,151,"Uganda",1988,1,"Uganda","Uganda Democratic Christian Army",3,1,1,1,0,0,6.763546944,7.099999905,21,1,0,0,0,0,0,1
+"174",100,495,"Colombia",1978,0,"Colombia","19 April Movement",4,1,1,1,1,1,8.752138138,4.247000217,10,1,1,0,0,0,0,1
+"175",750,406,"India",1992,0,"India","Maoist Communist Centre",NA,1,0,0,1,1,7.475534916,3.709000111,4,0,1,0,0,0,0,0
+"176",483,25,"Chad",1991,0,"Chad","Movement for Democracy and Development",0,0,0,0,0,0,6.928678036,7.346000195,6,0,0,0,0,0,0,0
+"177",483,27,"Chad",1999,1,"Chad","Movement for Democracy and Justice in Chad",0,0,0,0,0,0,6.84129715,7.383999825,3,0,0,0,0,0,0,0
+"178",630,246,"Iran, Islamic Rep.",1972,1,"Iran","People's Mujahideen",4,1,0,1,1,1,8.374077797,6.291999817,29,0,1,0,0,0,0,0
+"179",433,129,"Senegal",1988,1,"Senegal","Movement of the Democratic Forces of the Casamance",3,1,0,1,1,0,7.354072094,6.831999779,15,0,1,0,0,0,0,0
+"180",615,1,"Algeria",1985,0,"Algeria","Armed Islamic Movement",0,0,0,0,0,0,8.24532795,5.975999832,12,1,0,0,0,0,1,0
+"181",840,242,"Philippines",1990,1,"Philippines","Moro Islamic Liberation Front",4,1,0,1,1,0,8.112538338,4.320000172,19,1,0,0,0,0,0,1
+"182",437,245,"Cote d'Ivoire",2002,1,"Ivory Coast","Movement for Justice and Peace",0,0,0,0,0,0,7.298418045,5.206999779,1,1,0,0,0,0,0,0
+"183",640,457,"Turkey",1987,1,"Turkey","Maoist Communist Party",4,1,0,1,1,1,9.316105843,3.427000046,18,0,0,0,0,0,0,0
+"184",490,41,"Congo, Dem. Rep.",1998,1,"DRC","Movement for the Liberation of Congo",0,0,0,0,0,0,5.427918911,7.190000057,3,1,0,0,0,0,0,0
+"185",775,798,"Myanmar",2009,1,"Myanmar","Myanmar National Democratic Alliance Army",0,0,0,0,0,0,8.455519676,2.026000023,0,NA,0,0,0,0,0,1
+"186",436,749,"Niger",2007,1,"Niger","Niger Movement for Justice",0,0,0,0,0,0,6.262712002,7.592999935,1,NA,0,0,0,0,0,1
+"187",840,247,"Philippines",1972,0,"Philippines","Moro National Liberation Front",3,1,1,1,1,0,7.961205006,6.040999889,21,1,0,0,0,0,0,1
+"188",450,352,"Liberia",2003,1,"Liberia","Movement for Democracy in Liberia",4,1,0,0,0,0,5.907674789,5.635000229,0,1,0,0,0,0,0,1
+"189",483,19,"Chad",1988,0,"Chad","Movement for the National Salvation of Chad",0,0,0,0,0,NA,6.984003067,7.237999916,1,0,0,0,0,0,0,0
+"190",432,96,"Mali",1990,0,"Mali","Popular Movement for the Liberation of Azawad",0,0,0,0,0,0,6.491755009,7.061999798,0,0,0,1,0,0,0,0
+"191",581,35,"Comoros",1997,0,"Comoros","Anjouan People’s Movement/Republic of Anjouan",0,0,0,0,0,0,6.939070225,5.269999981,0,NA,0,0,0,0,0,0
+"192",437,89,"Cote d'Ivoire",2002,1,"Ivory Coast","Patriotic Movement of Ivory Coast",0,0,0,0,0,0,7.357518196,5.206999779,0,1,0,0,0,0,0,0
+"193",437,91,"Cote d'Ivoire",2002,1,"Ivory Coast","Ivorian Movement for the Greater West",0,0,0,0,0,0,7.32840395,5.206999779,1,1,0,0,0,0,0,0
+"194",483,23,"Chad",1990,0,"Chad","Patriotic Salvation Movement",0,0,0,0,0,0,6.973167896,7.313000202,0,0,0,0,0,0,0,1
+"195",770,340,"Pakistan",1990,0,"Pakistan","Mohajir National Movement",4,1,0,1,1,0,7.651656151,6.024000168,6,0,0,0,1,0,0,0
+"196",135,319,"Peru",1987,0,"Peru","Tupac Amaru Revolutionary Movement",4,1,1,1,1,1,8.077443123,4.144000053,6,1,1,0,0,0,0,1
+"197",775,308,"Myanmar",1985,0,"Myanmar","Mong Tai Army",3,1,0,1,1,0,6.95284605,4.278999805,10,1,0,0,0,0,0,1
+"198",NA,471,NA,NA,NA,"Togo","Togolese Movement for Democracy",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"199",700,732,"Afghanistan",1980,0,"Afghanistan","National Islamic Front of Afghanistan",NA,1,1,1,1,0,6.861565113,7.669000149,9,1,0,0,0,0,0,0
+"200",702,415,"Tajikistan",1998,0,NA,NA,NA,NA,NA,NA,NA,NA,7.275249004,4.203000069,0,1,NA,NA,NA,NA,NA,NA
+"201",652,519,"Syrian Arab Republic",1979,0,"Syria","Muslim Brotherhood",3,1,0,1,1,0,7.755677223,7.197000027,3,0,1,0,0,0,0,0
+"202",625,645,"Sudan",1996,1,"Sudan","National Democratic Alliance",NA,NA,NA,NA,NA,0,7.163317204,5.747000217,5,1,1,0,0,1,0,1
+"203",750,313,"India",1992,1,"India","Bodo Security Force",NA,1,1,1,1,0,7.459061146,3.709000111,12,0,0,0,0,0,0,0
+"204",NA,785,NA,NA,NA,"India","National Democratic Front for Bodoland -  Ranjan Daimary faction",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,1
+"205",475,473,"Nigeria",2004,1,"Nigeria","Niger Delta People’s Volunteer Force",NA,1,0,1,0,0,7.157689095,6.028999805,0,NA,0,1,0,0,0,0
+"206",750,269,"India",1992,1,"India","National Liberation Front of Tripura",2,1,0,1,1,0,7.563313961,3.709000111,14,0,0,0,0,0,0,1
+"207",775,310,"Myanmar",1959,0,"Myanmar","New Mon State Party",4,1,1,1,1,0,6.991829872,NA,31,NA,0,0,0,0,0,1
+"208",450,93,"Liberia",1989,0,"Liberia","National Patriotic Front of Liberia",4,1,1,1,1,0,6.581186771,6.586999893,1,1,0,0,0,0,0,0
+"209",500,574,"Uganda",1981,0,"Uganda","Popular Resistance Army",4,1,1,1,1,0,6.441895008,7.100999832,5,0,1,0,0,0,0,0
+"210",NA,547,NA,NA,NA,"Gambia","National Revolutionary Council",NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0,1,0,0,0,0
+"211",625,630,"Sudan",2006,1,"Sudan","National Redemption Front",0,0,0,0,0,NA,7.666274071,4.955999851,0,1,0,0,0,0,0,1
+"212",NA,286,NA,NA,NA,"India","National Socialist Council of Nagaland",4,1,1,1,0,1,NA,NA,NA,0,0,0,0,0,0,1
+"213",750,453,"India",1994,1,"India","National Socialist Council of Nagaland- Khaplang faction",NA,1,0,1,0,1,7.896213055,3.549000025,13,0,0,0,0,0,0,1
+"214",NA,357,NA,NA,NA,"Romania","National Salvation Front",4,1,1,1,1,0,NA,NA,NA,0,1,0,0,0,0,0
+"215",660,725,"Lebanon",1985,0,"Lebanon","National Union Front",4,1,1,1,1,1,8.81486702,3.482000113,1,1,1,0,0,0,0,1
+"216",678,617,"Yemen, Rep.",1979,0,"Yemen","National Democratic Front",0,0,0,0,0,0,7.679430008,NA,3,0,1,0,0,0,0,0
+"217",484,36,"Congo, Rep.",1993,0,"Congo-Brazzaville","Ninjas",0,0,0,0,0,0,7.776920795,5.197999954,6,0,1,0,0,0,0,0
+"218",484,38,"Congo, Rep.",1998,1,"Congo-Brazzaville","Ntsiloulous",0,0,0,0,0,0,7.669721127,5.138999939,4,0,0,0,0,0,0,1
+"219",530,55,"Ethiopia",1974,1,"Ethiopia","Oromo Liberation Front",4,1,1,1,1,0,6.400329113,7.120999813,35,0,0,1,0,0,0,0
+"220",530,54,"Ethiopia",1994,1,"Ethiopia","Ogaden National Liberation Front",3,1,0,1,1,0,6.263296127,7.046000004,15,0,0,0,0,0,0,1
+"221",90,627,"Guatemala",NA,NA,"Guatemala","Revolultionary Organization of Armed People",3,1,0,1,1,1,NA,NA,NA,1,0,0,0,0,0,1
+"222",517,128,"Rwanda",1996,1,"Rwanda","Army for the Liberation of Rwanda",2,1,1,1,0,0,6.636264801,6.229000092,13,1,0,0,0,0,0,0
+"223",666,419,"Israel",1970,1,"Israel","Popular Front for the Liberation of Palestine",4,1,1,1,1,1,9.996964455,3.778000116,31,1,0,0,0,0,0,1
+"224",666,428,"Israel",1989,NA,"Israel","Popular Front for the Liberation of Palestine – General Command",0,0,0,0,0,0,NA,2.885999918,NA,1,0,0,0,0,0,1
+"225",483,807,"Chad",NA,NA,"Chad","Popular Front for National Renaissance",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,0
+"226",NA,848,NA,NA,NA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227",666,380,"Israel",1987,1,"Israel","Palestinian Islamic Jihad",3,1,0,1,1,0,10.0577898,3.00999999,22,1,0,0,0,0,1,0
+"228",200,216,"United Kingdom",1970,0,"UK","Provisional Irish Republican Army",4,1,1,1,1,0,9.845389366,2.440000057,21,0,0,0,0,0,0,0
+"229",630,459,"Iran, Islamic Rep.",2005,1,"Iran","The Free Life Party of Kurdistan",4,1,0,1,1,1,9.284793854,1.873000026,4,0,0,0,0,0,0,0
+"230",640,333,"Turkey",1983,1,"Turkey","Kurdistan Worker's Party",4,1,1,1,1,1,9.18817234,3.982000113,26,1,0,0,1,0,0,0
+"231",750,325,"India",1979,1,"India","People’s Liberation Army",3,1,1,1,1,1,7.257740974,4.762000084,27,0,0,0,0,0,0,1
+"232",666,781,"Israel",1965,0,"Israel","Palestine Liberation Organization",4,1,1,1,1,0,9.845389366,3.813999891,23,1,1,0,1,1,0,0
+"233",359,367,"Moldova",1991,0,"Moldova","Dniestr Republic",NA,1,0,0,1,0,7.797339916,2.305000067,1,NA,0,0,0,0,0,0
+"234",600,98,"Morocco",1975,0,"Morocco","Popular Front for the Liberation of Saguia el Hamra and Rio de Oro",4,1,1,1,1,0,7.941967964,6.168000221,14,1,0,0,1,0,0,1
+"235",666,629,"Israel",NA,NA,NA,NA,NA,1,0,1,0,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+"236",750,766,"India",1980,1,"India","People's Revolutionary Party of Kangleipak",NA,1,0,1,1,0,8.061332703,4.678999901,29,0,0,0,0,0,0,0
+"237",645,285,"Iraq",1976,0,"Iraq","Patriotic Union of Kurdistan",3,1,0,1,1,0,8.457345963,6.914999962,20,0,0,1,1,0,0,1
+"238",750,772,"India",2004,1,"India","People's United Liberation Front",NA,1,0,1,0,0,8.042770386,2.884000063,4,0,0,0,0,0,0,0
+"239",750,405,"India",1987,0,"India","People’s War Group",4,1,0,1,1,1,7.407781124,4.125,7,0,0,0,0,0,0,1
+"240",516,11,"Burundi",1991,0,"Burundi","Party for the Liberation of the Hutu People",NA,NA,NA,NA,NA,0,6.2651968,7.507999897,1,1,0,0,0,0,0,0
+"241",516,15,"Burundi",1997,1,"Burundi","Party for the Liberation of the Hutu People-Forces for National Liberation",3,1,1,1,1,0,6.193276882,7.217000008,11,1,0,0,0,0,0,1
+"242",800,472,"Thailand",1965,1,"Thailand","Patani insurgents",3,1,1,1,1,0,8.893918037,6.129000187,44,1,0,0,0,0,0,0
+"243",439,487,"Burkina Faso",1987,0,"Burkina Faso","Popular Front",NA,NA,NA,NA,NA,1,6.445703983,7.092000008,0,NA,0,0,0,0,0,0
+"244",483,633,"Chad",2006,1,"Chad","Rally of Democratic Forces",0,0,0,0,0,0,7.382061958,6.992000103,0,0,0,0,0,0,0,0
+"245",490,40,"Congo, Dem. Rep.",1998,1,"DRC","Congolese Rally for Democracy",NA,1,0,1,0,0,5.427918911,7.190000057,3,1,0,0,0,0,0,1
+"246",NA,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+"247",438,57,"Guinea",2000,1,"Guinea","Rally of Democratic Forces of Guinea",0,0,0,0,0,NA,7.104452133,5.93900013,1,0,0,0,0,0,0,0
+"248",200,248,"United Kingdom",NA,NA,"UK","Real Irish Republican Army",NA,1,0,1,1,0,NA,NA,NA,0,0,0,0,0,0,1
+"249",775,312,"Myanmar",1991,0,"Myanmar","Rohingya Solidarity Organisation",0,0,0,0,0,0,7.05827713,3.279000044,3,NA,0,0,0,0,0,1
+"250",451,130,"Sierra Leone",1991,1,"Sierra Leone","Revolutionary United Front",4,1,1,1,1,0,7.088730812,6.453000069,9,1,0,0,0,0,0,0
+"251",666,780,"Israel",1974,0,"Israel","Rejectionist Front",4,1,1,1,1,1,9.845389366,3.625999928,14,1,0,0,0,0,0,1
+"252",541,99,"Mozambique",1977,0,"Mozambique","Mozambican National Resistance",3,1,1,1,1,0,5.872414112,6.532000065,15,1,0,0,0,0,0,0
+"253",372,259,"Georgia",1992,0,"Georgia","Republic of Abkhazia",3,1,1,1,1,0,7.985521793,2.075999975,1,0,0,0,0,0,0,0
+"254",NA,370,NA,NA,NA,"USSR","Republic of Armenia (Armenian National Movement)",NA,NA,NA,NA,NA,0,NA,NA,NA,NA,0,1,0,0,0,0
+"255",NA,272,NA,NA,NA,"Yugoslavia","Republic of Croatia",2,1,0,1,1,0,NA,NA,NA,0,0,0,0,0,0,0
+"256",373,361,"Azerbaijan",1991,1,"Azerbaijan","Republic of Artsakh/Republic of Nagorno-Karabakh",3,1,0,1,1,0,8.901592255,2.869999886,14,0,0,0,0,0,0,0
+"257",NA,281,NA,NA,NA,"Yugoslavia","Republic of Slovenia",0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0
+"258",372,297,"Georgia",1991,1,"Georgia","South Ossetian Soviet Democratic Republic",NA,1,1,1,0,0,8.406495094,2.131999969,17,0,0,0,0,0,0,0
+"259",483,18,"Chad",NA,NA,"Chad","Revolutionary Forces of 1 April",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,0
+"260",NA,551,NA,NA,NA,"Tunisia","Tunisian Armed Resistance",0,0,0,0,0,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"261",NA,796,NA,NA,NA,"Ethiopia","Somali Abo Liberation Front",0,0,0,0,0,NA,NA,NA,NA,0,0,0,0,0,0,0
+"262",645,298,"Iraq",1982,0,"Iraq","Supreme Council for Islamic Revolution in Iraq",0,0,0,0,0,0,8.21259594,6.407000065,14,0,1,1,0,0,0,0
+"263",NA,559,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264",530,791,"Ethiopia",1982,0,"Ethiopia","Sidama Liberation Movement",0,0,0,0,0,0,6.721798897,7.396999836,1,0,0,0,0,0,0,0
+"265",625,433,"Sudan",2003,1,"Sudan","Sudan Liberation Movement/Army",NA,1,0,1,1,0,7.560112953,5.205999851,6,1,0,0,0,0,0,0
+"266",625,631,"Sudan",2006,1,"Sudan","Sudan Liberation Movement/Army - Minni Minawi faction",0,0,0,0,0,0,7.666274071,4.955999851,0,1,0,0,0,0,0,1
+"267",625,648,"Sudan",2007,1,"Sudan","Sudan Liberation Movement/Army-Unity",0,0,0,0,0,0,7.61831522,4.873000145,1,1,0,0,0,0,0,1
+"268",520,207,"Somalia",1982,0,"Somalia","Somali National Movement",3,1,1,1,1,0,7.191357136,7.052999973,9,0,0,1,0,0,0,0
+"269",625,641,"Sudan",1983,1,"Sudan","Sudanese People’s Liberation Movement/Army",4,1,1,1,1,0,7.126513958,6.605000019,21,1,0,0,0,0,0,1
+"270",520,208,"Somalia",1989,0,"Somalia","Somali Patriotic Movement",0,0,0,0,0,0,7.231204987,7.34100008,2,0,0,0,0,0,0,0
+"271",520,212,"Somalia",2001,1,"Somalia","Somali Reconciliation and Restoration Council",0,0,0,0,0,0,7.060060024,7.556000233,1,0,0,0,0,0,0,1
+"272",775,307,"Myanmar",1986,1,"Myanmar","Restoration Council of Shan States",NA,1,0,1,1,0,7.882126808,4.093999863,23,1,0,0,0,0,0,1
+"273",520,209,"Somalia",1982,0,"Somalia","Somali Salvation Democratic Front",0,0,0,0,0,0,7.188467979,7.052999973,2,1,1,0,0,0,0,0
+"274",NA,747,NA,NA,NA,"Myanmar","Shan United Revolutionary Army",3,1,0,1,1,0,NA,NA,NA,NA,0,0,0,0,0,1
+"275",560,516,"South Africa",1966,0,"South Africa","South West Africa People’s Organization",4,1,1,1,1,0,8.732465744,5.835999966,22,0,0,1,0,0,0,0
+"276",135,235,"Peru",1981,1,"Peru","Shining Path",4,1,1,1,1,1,8.348881721,4.866000175,28,1,1,0,0,0,0,1
+"277",346,292,"Bosnia and Herzegovina",1992,0,"Bosnia and Herzegovina","Serbian Republic of Bosnia-Herzegovina",NA,1,0,1,0,0,7.177537918,1.76699996,3,1,1,0,0,0,0,0
+"278",346,303,"Bosnia-Herzegovina",NA,NA,"Croatia","Serbian Republic of Krajina",NA,1,0,1,0,0,NA,NA,NA,1,0,0,0,0,0,0
+"279",346,300,"Bosnia-Herzegovina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+"280",346,291,"Bosnia-Herzegovina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+"281",750,387,"India",1981,0,NA,NA,3,1,1,1,1,0,7.029216766,4.597000122,12,0,NA,NA,NA,NA,NA,NA
+"282",780,526,"Sri Lanka",1978,0,"Sri Lanka","Tamil Eelam Liberation Organization",0,0,0,0,0,0,7.694149017,3.562000036,7,1,0,0,0,0,0,0
+"283",NA,721,NA,NA,NA,"Pakistan",NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,0,0,0,0,0,0
+"284",NA,515,NA,NA,NA,"India","Tripura National Volunteers",0,0,0,0,0,0,NA,NA,NA,0,1,0,0,0,0,0
+"285",530,46,"Ethiopia",1975,0,"Ethiopia","Tigrean People’s Liberation Front",4,1,1,1,1,1,6.587129116,7.143000126,16,1,0,1,1,0,0,0
+"286",NA,751,NA,NA,NA,"Myanmar","Tailand Revolutionary Council",0,0,0,0,0,NA,NA,NA,NA,1,0,0,0,0,0,1
+"287",770,768,"Pakistan",2007,1,"Pakistan","Taleban Movement of Pakistan",2,1,1,1,1,0,7.798762798,3.648000002,2,1,0,0,0,0,0,1
+"288",615,2,"Algeria",1990,0,"Algeria","Exile and Redemption",0,0,0,0,0,0,8.39244175,4.761000156,1,1,0,0,0,0,0,0
+"289",700,327,"Afghanistan",1995,1,"Afghanistan","Taleban",2,1,1,1,0,0,6.563191891,7.831999779,14,1,0,0,0,0,0,0
+"290",343,341,"Macedonia, FYR",2000,1,"Macedonia","National Liberation Army",2,1,0,1,0,0,8.639771461,1.72300005,1,NA,0,0,0,0,0,1
+"291",483,634,"Chad",2006,1,"Chad","Union Force for Democracy and Development",0,0,0,0,0,0,7.377336979,6.992000103,1,0,0,0,0,0,0,1
+"292",482,628,"Central African Republic",2006,1,"Central African Republic","Union of Democratic Forces for Unity",NA,1,0,1,0,0,6.362407207,4.997000217,0,NA,0,0,0,0,0,1
+"293",500,575,"Uganda",1981,0,"Uganda","Uganda Freedom Movement",0,0,0,0,0,0,6.461812019,7.100999832,1,0,0,0,0,0,0,0
+"294",483,783,"Chad",2009,1,"Chad","Union of Forces for the Resistance",0,0,0,0,0,0,7.404109001,6.702000141,0,0,0,1,0,0,0,1
+"295",436,762,"Niger",NA,NA,"Niger","Union of Forces of the Armed Resistance",0,0,0,0,0,0,NA,NA,NA,0,0,0,0,0,0,1
+"296",700,423,"Afghanistan",1996,1,NA,NA,NA,1,0,0,1,0,6.624433041,7.859000206,5,1,NA,NA,NA,NA,NA,NA
+"297",750,296,"India",1983,1,"India","United Liberation Front of Assam",3,1,1,1,1,1,7.610706806,4.43599987,26,0,0,0,1,0,0,0
+"298",540,7,"Angola",1975,1,"Angola","National Union for the Total Independence of Angola",3,1,1,1,1,0,7.922986984,7.184999943,27,1,0,0,0,0,0,1
+"299",500,556,"Uganda",1979,0,"Uganda","Uganda National Liberation Front",0,0,0,0,0,0,NA,7.098999977,0,0,0,0,0,0,0,1
+"300",750,336,"India",1993,1,"India","United National Liberation Front",NA,1,1,1,1,0,7.707353115,3.628000021,16,0,0,0,0,0,0,0
+"301",500,704,"Uganda",1981,0,"Uganda","Ugandan National Rescure Front",0,0,0,0,0,0,6.447628021,7.100999832,2,0,0,0,0,0,0,1
+"302",500,431,"Uganda",1996,0,"Uganda","Uganda National Rescue Front II",0,0,0,0,0,0,6.67773819,6.993999958,1,1,0,0,0,0,0,1
+"303",90,228,"Guatemala",1982,0,"Guatemala","Guatemalan National Revolutionary Unity",4,1,1,1,1,1,8.086195946,6.109000206,13,1,0,0,0,0,0,1
+"304",500,148,"Uganda",1987,0,"Uganda","Uganda People's Army",0,0,0,0,0,0,6.440273762,7.102000237,5,0,0,0,0,0,0,0
+"305",500,706,"Uganda",1986,0,"Uganda","Ugandan People’s Democratic Army",NA,1,0,0,0,0,6.436502934,7.103000164,1,0,0,0,0,0,0,0
+"306",520,210,"Somalia",1990,0,"Somalia","United Somali Congress",NA,1,0,1,0,0,7.275209904,7.396999836,1,0,0,0,0,0,0,1
+"307",520,211,"Somalia",1991,0,"Somalia","United Somali Congress/Somali National Alliance",NA,1,0,1,1,0,7.157363892,7.454999924,5,1,0,0,0,0,0,1
+"308",702,353,"Tajikistan",1992,0,"Tajikistan","United Tajik Opposition",0,0,0,0,0,0,7.554022789,4.949999809,6,1,1,1,0,0,0,0
+"309",775,321,"Myanmar",1997,0,"Myanmar","United Wa State Army",3,1,0,0,1,0,7.277599812,2.674999952,0,1,0,0,0,0,0,0
+"310",500,152,"Uganda",1995,0,"Uganda","West Nile Bank Front",0,0,0,0,0,0,6.648920059,7.018000126,1,1,0,0,0,0,0,1
+"311",451,714,"Sierra Leone",2000,1,"Sierra Leone","West Side Boys",NA,1,0,1,0,0,6.663949966,5.920000076,0,1,0,0,0,0,0,1
+"312",530,522,"Ethiopia",1976,0,"Ethiopia","Western Somali Liberation Front",3,1,0,1,0,0,6.547668934,7.166999817,7,0,0,0,0,0,0,0
+"313",365,368,"Russian Federation",1998,0,"Russia","Wahhabi movement of the Buinaksk district (Republic of Dagestan)",0,0,0,0,0,0,9.252212524,1.24000001,1,0,1,0,0,0,0,0
+"314",680,564,"South Yemen",1986,0,"South Yemen","Yemenite Socialist Party - Abdul Fattah Ismail faction",0,0,0,0,0,1,8.002758026,9.119000435,0,NA,1,0,0,0,0,0
+"315",552,712,"Zimbabwe",1976,0,"Zimbabwe/Rhodesia","Patriotic Front",4,1,1,1,1,0,7.73168993,7.368999958,3,NA,0,0,0,0,0,1
+"316",NA,289,"Georgia",NA,NA,"Georgia","Zviadists",NA,1,1,0,1,0,NA,NA,NA,NA,1,0,0,0,0,0
